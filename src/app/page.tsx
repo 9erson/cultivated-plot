@@ -1,7 +1,5 @@
 export default function Home() {
   return (
-    <div className="flex items-center justify-center min-h-screen">
-      <h1 className="text-4xl font-bold">Fresh Slate</h1>
-    </div>
+    <h1>Cultivated Plot</h1>
   );
 }
